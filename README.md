@@ -19,7 +19,7 @@ find('browserify', {
 
 First it will use the [resolve](https://www.npmjs.com/package/resolve) algorithm to look through locals, and then it will fall back to [npm-which](https://www.npmjs.com/package/npm-which) to look through globals.
 
-Returns the path to the module so that it can be required.
+The callback provides the path to the module so that it can be required.
 
 ## Usage
 
