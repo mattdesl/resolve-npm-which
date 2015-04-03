@@ -1,6 +1,6 @@
 {
   "name": "resolve-npm-which",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "finds the user's path for a module like browserify",
   "main": "index.js",
   "license": "MIT",
